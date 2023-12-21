@@ -1,3 +1,3 @@
 # Chess Engine written in C
-Welcome to BalticChess Heuristics Learning Playground, an educational open-source project aimed at teaching the principles of heuristics in chess programming. 
-This project is implemented in C and serves as a hands-on platform for enthusiasts and learners to explore, experiment, and understand the application of heuristics in chess engines.
+BalticChess Heuristics Learning Playground is an educational C-based open-source project designed to teach chess programming heuristics. 
+Explore and implement various heuristics, guided by interactive modules, while visualizing the gameplay through a user-friendly Graphical User Interface (GUI) built with the Simple DirectMedia Layer (SDL).
